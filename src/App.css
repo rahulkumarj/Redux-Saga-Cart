@@ -12,6 +12,20 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.header{
+  background-color:yellow;
+  height: 15vh;
+}
+.cart_div img{
+  width:7vw;
+  height:7vh;
+}
+.cart_div{
+ float: right;
+ margin: 25px;
+position:relative;
+
+}
 
 .App-header {
   background-color: #282c34;
